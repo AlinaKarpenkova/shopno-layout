@@ -1,0 +1,927 @@
+@media screen and (max-width: 425px) and (min-width: 320px) {
+  .main-container {
+    margin-left: 15px;
+    margin-right: 15px;
+    padding-bottom: 25px;
+  }
+
+  body .header .header__secondSection .juice-glass {
+    height: 56px;
+    width: 46px;
+  }
+  body main .aboutUs img {
+    width: 273px;
+    height: 384px;
+    margin: 0 auto;
+  }
+  body main .aboutUs .carousel {
+    width: 100%;
+    background-image: url("../img/img-bg.png");
+    background-repeat: no-repeat;
+    background-size: 300px 300px;
+    background-position: center;
+  }
+  body main .aboutUs .carousel-indicators {
+    margin: 0;
+    padding: 0;
+    top: 400px;
+  }
+  body main .aboutUs .about-us-text {
+    margin-top: 40px;
+  }
+  body main .aboutUs .about-us-text .article-header {
+    text-align: center;
+  }
+  body main .featured_works .col-12 {
+    padding: 0px;
+  }
+  body main .featured_works .row {
+    margin: 0px;
+  }
+  body main .featured_works img {
+    height: 100%;
+    width: 100%;
+  }
+  body main .our_services .col-12 {
+    padding: 0px;
+  }
+  body main .our_services .row {
+    margin: 0px;
+  }
+  body main .our_services .column-1,
+body main .our_services .column-2,
+body main .our_services .column-3,
+body main .our_services .column-4,
+body main .our_services .column-5,
+body main .our_services .column-6 {
+    margin-bottom: 13px;
+    padding: 0px 8px 0px 8px;
+  }
+  body main .our_services .column-1 div,
+body main .our_services .column-2 div,
+body main .our_services .column-3 div,
+body main .our_services .column-4 div,
+body main .our_services .column-5 div,
+body main .our_services .column-6 div {
+    position: relative;
+  }
+  body main .our_services .column-1 div div,
+body main .our_services .column-2 div div,
+body main .our_services .column-3 div div,
+body main .our_services .column-4 div div,
+body main .our_services .column-5 div div,
+body main .our_services .column-6 div div {
+    width: 100%;
+  }
+  body main .our_services .column-1 div div {
+    padding: 25px 25px 25px 25px;
+  }
+  body main .our_services .column-1 div div img {
+    margin: 0px;
+  }
+  body main .our_services .column-2 div div {
+    padding: 25px 25px 0px 25px;
+  }
+  body main .our_services .column-3 div div {
+    padding: 25px 25px 0px 25px;
+  }
+  body main .our_services .column-4 div div {
+    padding: 25px 25px 0px 25px;
+  }
+  body main .our_services .column-5 div div {
+    padding: 25px 25px 0px 25px;
+  }
+  body main .our_services .column-6 div div {
+    padding: 25px 25px 0px 25px;
+  }
+  body main .our_services .content a {
+    width: 70%;
+    bottom: 15px;
+    display: flex;
+    align-items: center;
+  }
+  body main .our_services .content a img {
+    height: 15px;
+    margin-left: 10px;
+  }
+  body main .small_team .col-12 .photos {
+    width: 100%;
+    height: 100%;
+  }
+  body main .small_team .blue_window {
+    position: absolute;
+    width: 95%;
+    height: 180px;
+    top: 40%;
+    right: 2%;
+    padding: 0px 16px 0px 16px;
+  }
+  body main .small_team .blue_window_text {
+    position: absolute;
+    top: 45%;
+    left: 15%;
+    text-align: center;
+  }
+  body main .small_team .blue_window_text p {
+    padding-top: 20px;
+    margin-right: 20px;
+  }
+  body main .small_team .blue_window_text div {
+    width: 100px;
+    margin-left: 60px;
+  }
+  body main .reviews {
+    height: 1280px;
+  }
+  body main .reviews .article {
+    margin-top: 70px;
+  }
+  body main .reviews .carousel {
+    background-size: 290px 300px;
+    width: 100%;
+  }
+  body main .reviews .carousel img {
+    width: 270px;
+    height: 324px;
+    margin: 0 auto;
+  }
+  body main .reviews .carousel-indicators {
+    margin: 0;
+    padding: 0;
+    top: 360px;
+  }
+  body main .logo {
+    background-size: contain;
+    height: 120px;
+  }
+  body footer .first-row .column-left {
+    margin-bottom: 26px;
+    padding: 0px;
+  }
+  body footer .first-row .column-left form .textarea {
+    height: 195px;
+  }
+  body footer .first-row .column-left div {
+    background: rgba(2, 22, 35, 0.6);
+    padding: 47px 33px 38px 35px;
+    height: 100%;
+  }
+  body footer .first-row .column-right {
+    margin-bottom: 26px;
+    background: rgba(2, 22, 35, 0.6);
+    color: #b3bdbd;
+    padding: 36px 22px 19px 22px;
+  }
+  body footer .first-row .input-text::-moz-placeholder {
+    color: #b3bdbd;
+  }
+  body footer .first-row .input-text::-webkit-input-placeholder {
+    color: #b3bdbd;
+  }
+  body footer .first-row .input-text {
+    width: 100%;
+    background: rgba(0, 0, 0, 0);
+    border: none;
+  }
+  body footer .input-button {
+    font-family: "Montserrat", sans-serif;
+    font-size: 18px;
+    background-color: #6eeee4;
+    border: 1px solid #6eeee4;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    width: 90%;
+    height: 53px;
+    -webkit-transition: 0.4s;
+    -o-transition: 0.4s;
+    transition: 0.4s;
+  }
+  body footer .second-row {
+    height: 316px;
+    color: #b3bdbd;
+    background-color: #262b2e;
+    text-align: center;
+  }
+  body footer .second-row div:first-child {
+    padding-top: 80px;
+  }
+}
+@media screen and (min-width: 1024px) {
+  .main-container {
+    margin-left: 75px;
+    margin-right: 75px;
+    padding-bottom: 120px;
+  }
+
+  body .header .header__secondSection .juice-glass {
+    height: 86px;
+    width: 76px;
+  }
+  body main .aboutUs {
+    background-color: #f8fafa;
+    height: 986px;
+    font-family: "Montserrat", sans-serif;
+    padding-top: 120px;
+  }
+  body main .aboutUs img {
+    width: 393px;
+    height: 484px;
+    margin: 0 auto;
+  }
+  body main .aboutUs .carousel {
+    width: 40%;
+    background-image: url("../img/img-bg.png");
+    background-repeat: no-repeat;
+    background-size: 400px 400px;
+    background-position: center;
+    margin-right: 60px;
+  }
+  body main .aboutUs .carousel-indicators {
+    margin: 0;
+    padding: 0;
+    top: 500px;
+  }
+  body main .aboutUs .carousel-indicators .active {
+    background-color: #71F6EB;
+  }
+  body main .aboutUs .carousel-indicators li {
+    height: 11px;
+    width: 11px;
+    border: solid 0px #D0D0D0;
+    border-radius: 2px;
+    background-color: #D0D0D0;
+  }
+  body main .aboutUs .about-us-text {
+    padding-top: 15px;
+  }
+  body main .aboutUs .about-us-text .article-header {
+    font-family: "Merriweather", serif;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  body main .aboutUs .about-us-text p {
+    font-family: "Raleway", sans-serif;
+    font-size: 16px;
+  }
+  body main .featured_works {
+    background-color: #FFFFFF;
+    padding-top: 120px;
+  }
+  body main .our_services {
+    background-color: #F9FBFB;
+  }
+  body main .our_services .column-1,
+body main .our_services .column-2,
+body main .our_services .column-3,
+body main .our_services .column-4,
+body main .our_services .column-5,
+body main .our_services .column-6 {
+    margin-bottom: 13px;
+    padding: 0px 8px 0px 8px;
+  }
+  body main .our_services .column-1 div,
+body main .our_services .column-2 div,
+body main .our_services .column-3 div,
+body main .our_services .column-4 div,
+body main .our_services .column-5 div,
+body main .our_services .column-6 div {
+    position: relative;
+  }
+  body main .our_services .column-1 div div,
+body main .our_services .column-2 div div,
+body main .our_services .column-3 div div,
+body main .our_services .column-4 div div,
+body main .our_services .column-5 div div,
+body main .our_services .column-6 div div {
+    position: absolute;
+    background-color: #000000;
+    color: #ffffff;
+    opacity: 0.6;
+    width: 100%;
+  }
+  body main .our_services .column-1 div {
+    height: 422px;
+  }
+  body main .our_services .column-1 div div {
+    position: absolute;
+    background-color: #6df6eb;
+    color: #000000;
+    opacity: 1;
+    padding: 65px 115px 55px 65px;
+  }
+  body main .our_services .column-1 div div button {
+    background: rgba(0, 0, 0, 0);
+    border: none;
+  }
+  body main .our_services .column-2 div {
+    height: 422px;
+  }
+  body main .our_services .column-2 div div {
+    padding: 180px 84px 0px 65px;
+  }
+  body main .our_services .column-3 div {
+    height: 371px;
+  }
+  body main .our_services .column-3 div div {
+    padding: 165px 170px 0px 65px;
+  }
+  body main .our_services .column-4 div {
+    height: 371px;
+  }
+  body main .our_services .column-4 div div {
+    padding: 165px 80px 0px 65px;
+  }
+  body main .our_services .column-5 div {
+    height: 370px;
+  }
+  body main .our_services .column-5 div div {
+    padding: 130px 120px 0px 65px;
+  }
+  body main .our_services .column-6 div {
+    height: 370px;
+  }
+  body main .our_services .column-6 div div {
+    padding: 130px 180px 0px 65px;
+  }
+  body main .our_services .content a {
+    position: absolute;
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+    color: #ffffff;
+    bottom: 63px;
+  }
+  body main .our_services .content a:hover {
+    text-decoration: underline;
+  }
+  body main .our_services .content a img {
+    margin-left: 15px;
+  }
+  body main .small_team {
+    background-color: #FFFFFF;
+  }
+  body main .small_team .blue_window {
+    margin-top: -320px;
+    padding: 0px 16px 0px 16px;
+  }
+  body main .small_team .blue_window_text {
+    margin-top: -240px;
+    text-align: center;
+  }
+  body main .small_team .blue_window_text p {
+    padding-top: 20px;
+    margin-right: 20px;
+  }
+  body main .small_team .blue_window_text div {
+    width: 100px;
+    margin-left: 60px;
+  }
+  body main .reviews .article {
+    height: 368px;
+    width: 667px;
+    text-align: center;
+    margin-left: 45px;
+    margin-top: 35px;
+  }
+  body main .reviews .carousel {
+    background-size: 430px 370px;
+    width: 420px;
+  }
+  body main .reviews .carousel img {
+    margin: 0 auto;
+  }
+  body main .reviews .carousel-indicators {
+    margin: 0;
+    padding: 0;
+    top: 450px;
+  }
+  body .logo {
+    height: 420px;
+    background-size: contain;
+  }
+}
+@media screen and (max-width: 1023px) and (min-width: 425px) {
+  .main-container {
+    margin-left: 45px;
+    margin-right: 45px;
+    padding-bottom: 55px;
+  }
+
+  body .header .header__secondSection .juice-glass {
+    height: 56px;
+    width: 46px;
+  }
+  body main .aboutUs img {
+    width: 273px;
+    height: 384px;
+    margin: 0 auto;
+  }
+  body main .aboutUs .carousel {
+    width: 100%;
+    background-image: url("../img/img-bg.png");
+    background-repeat: no-repeat;
+    background-size: 300px 300px;
+    background-position: center;
+  }
+  body main .aboutUs .carousel-indicators {
+    margin: 0;
+    padding: 0;
+    top: 400px;
+  }
+  body main .aboutUs .about-us-text {
+    margin: 40px auto 0 auto;
+  }
+  body main .aboutUs .about-us-text .article-header {
+    text-align: center;
+  }
+  body main .featured_works .col-12 {
+    padding: 0px;
+  }
+  body main .featured_works .row {
+    margin: 0px;
+  }
+  body main .featured_works img {
+    height: 100%;
+    width: 100%;
+  }
+  body main .our_services .col-12 {
+    padding: 0px;
+  }
+  body main .our_services .row {
+    margin: 0px;
+  }
+  body main .our_services .column-1,
+body main .our_services .column-2,
+body main .our_services .column-3,
+body main .our_services .column-4,
+body main .our_services .column-5,
+body main .our_services .column-6 {
+    margin-bottom: 13px;
+    padding: 0px 8px 0px 8px;
+  }
+  body main .our_services .column-1 div,
+body main .our_services .column-2 div,
+body main .our_services .column-3 div,
+body main .our_services .column-4 div,
+body main .our_services .column-5 div,
+body main .our_services .column-6 div {
+    position: relative;
+  }
+  body main .our_services .column-1 div div,
+body main .our_services .column-2 div div,
+body main .our_services .column-3 div div,
+body main .our_services .column-4 div div,
+body main .our_services .column-5 div div,
+body main .our_services .column-6 div div {
+    width: 100%;
+  }
+  body main .our_services .column-1 div div {
+    padding: 25px 25px 25px 25px;
+  }
+  body main .our_services .column-1 div div img {
+    margin: 0px;
+  }
+  body main .our_services .column-2 div div {
+    padding: 25px 25px 0px 25px;
+  }
+  body main .our_services .column-3 div div {
+    padding: 25px 25px 0px 25px;
+  }
+  body main .our_services .column-4 div div {
+    padding: 25px 25px 0px 25px;
+  }
+  body main .our_services .column-5 div div {
+    padding: 25px 25px 0px 25px;
+  }
+  body main .our_services .column-6 div div {
+    padding: 25px 25px 0px 25px;
+  }
+  body main .our_services .content a {
+    width: 70%;
+    bottom: 15px;
+    display: flex;
+    align-items: center;
+  }
+  body main .our_services .content a img {
+    height: 15px;
+    margin-left: 10px;
+  }
+  body main .small_team .col-12 .photos {
+    width: 100%;
+    height: 100%;
+  }
+  body main .small_team .blue_window {
+    position: absolute;
+    width: 95%;
+    height: 180px;
+    top: 40%;
+    right: 2%;
+    padding: 0px 16px 0px 16px;
+  }
+  body main .small_team .blue_window_text {
+    position: absolute;
+    top: 43%;
+    left: 15%;
+    text-align: center;
+  }
+  body main .small_team .blue_window_text p {
+    padding-top: 20px;
+    margin-right: 20px;
+  }
+  body main .small_team .blue_window_text div {
+    width: 100px;
+    margin-left: 60px;
+  }
+  body main .reviews {
+    height: 1280px;
+  }
+  body main .reviews .article {
+    margin-top: 70px;
+  }
+  body main .reviews .carousel {
+    background-size: 290px 300px;
+    width: 100%;
+  }
+  body main .reviews .carousel img {
+    width: 270px;
+    height: 324px;
+    margin: 0 auto;
+  }
+  body main .reviews .carousel-indicators {
+    margin: 0;
+    padding: 0;
+    top: 360px;
+  }
+  body main .logo {
+    background-size: contain;
+    height: 320px;
+  }
+  body footer .first-row .column-left {
+    margin-bottom: 26px;
+    padding: 0px;
+  }
+  body footer .first-row .column-left form .textarea {
+    height: 195px;
+  }
+  body footer .first-row .column-left div {
+    background: rgba(2, 22, 35, 0.6);
+    padding: 47px 33px 38px 35px;
+    height: 100%;
+  }
+  body footer .first-row .column-right {
+    margin-bottom: 26px;
+    background: rgba(2, 22, 35, 0.6);
+    color: #b3bdbd;
+    padding: 36px 22px 19px 22px;
+  }
+  body footer .first-row .input-text::-moz-placeholder {
+    color: #b3bdbd;
+  }
+  body footer .first-row .input-text::-webkit-input-placeholder {
+    color: #b3bdbd;
+  }
+  body footer .first-row .input-text {
+    width: 100%;
+    background: rgba(0, 0, 0, 0);
+    border: none;
+  }
+  body footer .input-button {
+    font-family: "Montserrat", sans-serif;
+    font-size: 18px;
+    background-color: #6eeee4;
+    border: 1px solid #6eeee4;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    width: 90%;
+    height: 53px;
+    -webkit-transition: 0.4s;
+    -o-transition: 0.4s;
+    transition: 0.4s;
+  }
+  body footer .second-row {
+    height: 316px;
+    color: #b3bdbd;
+    background-color: #262b2e;
+    text-align: center;
+  }
+  body footer .second-row div:first-child {
+    padding-top: 80px;
+  }
+}
+body,
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.main-container {
+  min-width: 290px;
+  max-width: 1600px;
+}
+
+.header {
+  height: 810px;
+  background-color: #eff0f2;
+  border: none;
+}
+.header .header__firstSection {
+  height: 55px;
+  margin-bottom: 108px;
+  padding-top: 32px;
+}
+.header .header__firstSection .firstSection__logo {
+  width: 100px;
+  height: 29px;
+  color: #000000;
+  padding: 5px;
+  outline: 3px solid #000000;
+  -webkit-transition: 0.4s;
+  -o-transition: 0.4s;
+  transition: 0.4s;
+}
+.header .header__firstSection .firstSection__logo p {
+  text-align: center;
+  font-size: 16px;
+  font-weight: bold;
+  font-family: "Montserrat", sans-serif;
+  margin: 0 auto;
+}
+.header .header__firstSection .firstSection__logo p span {
+  font-size: 21px;
+  color: #77efe5;
+}
+.header .header__secondSection {
+  text-align: center;
+}
+.header .header__secondSection .slogan {
+  margin-top: 250px;
+}
+.header .header__secondSection .slogan h1 {
+  font-family: "Montserrat", sans-serif;
+  text-transform: uppercase;
+  margin-bottom: 75px;
+  font-weight: bold;
+  color: #505050;
+  text-shadow: rgba(0, 0, 0, 0.2) 5px 5px 5px;
+}
+.header .header__secondSection .slogan h1 span {
+  background-color: #b2f2ee;
+}
+.header .header__secondSection .slogan a {
+  height: 54px;
+  width: 233px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 18px;
+  padding: 0;
+  line-height: 54px;
+  vertical-align: middle;
+  color: #3C3C3D;
+  border: 2px solid #777879;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  text-decoration: none;
+  -webkit-transition: 0.5s;
+  -o-transition: 0.5s;
+  transition: 0.5s;
+}
+.header .header__secondSection .slogan a:hover {
+  color: #ffffff;
+  background: rgba(0, 0, 0, 0.5);
+  -webkit-transition: 0.5s;
+  -o-transition: 0.5s;
+  transition: 0.5s;
+}
+.header .header__secondSection .juice-glass {
+  background: #eff0f2;
+}
+
+main .title {
+  padding-bottom: 120px;
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+}
+main .title span {
+  font-size: 38px;
+  font-weight: bold;
+}
+main .title p {
+  font-family: "Merriweather", serif;
+  color: #848585;
+  font-size: 17px;
+}
+main .aboutUs {
+  background-color: #f8fafa;
+  font-family: "Montserrat", sans-serif;
+  padding-top: 120px;
+}
+main .aboutUs .carousel-indicators .active {
+  background-color: #71F6EB;
+}
+main .aboutUs .carousel-indicators li {
+  height: 11px;
+  width: 11px;
+  border: solid 0px #D0D0D0;
+  border-radius: 2px;
+  background-color: #D0D0D0;
+}
+main .aboutUs .about-us-text {
+  padding-top: 15px;
+}
+main .aboutUs .about-us-text .article-header {
+  font-family: "Merriweather", serif;
+  font-size: 20px;
+  font-weight: bold;
+}
+main .aboutUs .about-us-text p {
+  font-family: "Raleway", sans-serif;
+  font-size: 16px;
+}
+main .featured_works {
+  background-color: #FFFFFF;
+  padding-top: 120px;
+}
+main .our_services {
+  background-color: #F9FBFB;
+  padding-top: 120px;
+}
+main .our_services .service-header {
+  font-family: "Merriweather", serif;
+  font-size: 20px;
+  font-weight: bold;
+}
+main .our_services .column-1,
+main .our_services .column-2,
+main .our_services .column-3,
+main .our_services .column-4,
+main .our_services .column-5,
+main .our_services .column-6 {
+  margin-bottom: 13px;
+  padding: 0px 8px 0px 8px;
+}
+main .our_services .column-1 div,
+main .our_services .column-2 div,
+main .our_services .column-3 div,
+main .our_services .column-4 div,
+main .our_services .column-5 div,
+main .our_services .column-6 div {
+  position: relative;
+}
+main .our_services .column-2 div div,
+main .our_services .column-3 div div,
+main .our_services .column-4 div div,
+main .our_services .column-5 div div,
+main .our_services .column-6 div div {
+  position: absolute;
+  background-color: #000000;
+  color: #ffffff;
+  opacity: 0.6;
+  width: 100%;
+}
+main .our_services .column-1 div {
+  height: 422px;
+}
+main .our_services .column-1 div div {
+  position: absolute;
+  background-color: #70F5EA;
+  color: #000000;
+  opacity: 1;
+}
+main .our_services .column-1 div div button {
+  background: rgba(0, 0, 0, 0);
+  border: none;
+}
+main .our_services .column-2 div {
+  height: 422px;
+}
+main .our_services .column-3 div {
+  height: 371px;
+}
+main .our_services .column-4 div {
+  height: 371px;
+}
+main .our_services .column-5 div {
+  height: 370px;
+}
+main .our_services .column-6 div {
+  height: 370px;
+}
+main .our_services .content a {
+  position: absolute;
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  text-decoration: none;
+  color: #ffffff;
+}
+main .our_services .content a:hover {
+  text-decoration: underline;
+}
+main .small_team {
+  background-color: #FFFFFF;
+  padding-top: 120px;
+}
+main .reviews {
+  background-color: #F9FBFB;
+  padding-top: 120px;
+}
+main .reviews .article {
+  background-color: #EAEBED;
+  height: 368px;
+  text-align: center;
+}
+main .reviews .carousel {
+  background-image: url("../img/img-bg.png");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+main .reviews .carousel-indicators .active {
+  background-color: #71F6EB;
+}
+main .reviews .carousel-indicators li {
+  height: 11px;
+  width: 11px;
+  border: solid 0px #D0D0D0;
+  border-radius: 2px;
+  background-color: #D0D0D0;
+}
+main .logo {
+  background-image: url("../img/logo.png");
+  background-position: center;
+  background-color: white;
+  background-repeat: no-repeat;
+}
+
+footer {
+  font-family: "Raleway", sans-serif;
+  font-size: 16px;
+}
+footer .first-row {
+  background-image: url("../img/snow.png") !important;
+  background-size: cover;
+}
+footer .first-row .column-left {
+  margin-bottom: 26px;
+}
+footer .first-row .column-left form .textarea {
+  height: 195px;
+}
+footer .first-row .column-left div {
+  background: rgba(2, 22, 35, 0.6);
+  padding: 47px 33px 38px 35px;
+  height: 100%;
+}
+footer .first-row .column-right {
+  margin-bottom: 26px;
+  background: rgba(2, 22, 35, 0.6);
+  color: #b3bdbd;
+  padding: 36px 22px 19px 22px;
+}
+footer .first-row .input-text::-moz-placeholder {
+  color: #b3bdbd;
+}
+footer .first-row .input-text::-webkit-input-placeholder {
+  color: #b3bdbd;
+}
+footer .first-row .input-text {
+  width: 100%;
+  background: rgba(0, 0, 0, 0);
+  border: none;
+}
+footer .input-button {
+  font-family: "Montserrat", sans-serif;
+  font-size: 18px;
+  background-color: #6eeee4;
+  border: 1px solid #6eeee4;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  width: 244px;
+  height: 53px;
+  -webkit-transition: 0.4s;
+  -o-transition: 0.4s;
+  transition: 0.4s;
+}
+footer .input-button:hover {
+  background: rgba(0, 0, 0, 0.5);
+  color: #6eeee4;
+  border: 1px solid #000000;
+  -webkit-transition: 0.4s;
+  -o-transition: 0.4s;
+  transition: 0.4s;
+}
+footer hr {
+  background: #b3bdbd;
+  border: none;
+  height: 1px;
+  opacity: 0.6;
+  margin-top: 0px;
+}
+footer .second-row {
+  height: 316px;
+  color: #b3bdbd;
+  background-color: #262b2e;
+  text-align: center;
+}
+footer .second-row div:first-child {
+  padding-top: 80px;
+}
+
+/*# sourceMappingURL=style.css.map */

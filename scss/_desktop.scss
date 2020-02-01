@@ -1,0 +1,261 @@
+@media screen and (min-width: 1024px) {
+    .main-container {
+        margin-left: 75px;
+        margin-right: 75px;
+        padding-bottom: 120px;
+    }
+
+    body {
+
+        .header {
+
+            .header__secondSection {
+                .juice-glass {
+                    height: 86px;
+                    width: 76px;
+                }
+            }
+
+        }
+
+        main {
+            .aboutUs {
+                background-color: #f8fafa;
+                height: 986px;
+                font-family: 'Montserrat',
+                    sans-serif;
+                padding-top: 120px;
+
+                img {
+                    width: 393px;
+                    height: 484px;
+                    margin: 0 auto;
+                }
+
+                .carousel {
+                    width: 40%;
+                    background-image: url('../img/img-bg.png');
+                    background-repeat: no-repeat;
+                    background-size: 400px 400px;
+                    background-position: center;
+                    margin-right: 60px;
+                }
+
+                .carousel-indicators {
+                    margin: 0;
+                    padding: 0;
+                    top: 500px;
+                }
+
+                .carousel-indicators .active {
+                    background-color: #71F6EB;
+
+                }
+
+                .carousel-indicators li {
+                    height: 11px;
+                    width: 11px;
+                    border: solid 0px #D0D0D0;
+                    border-radius: 2px;
+                    background-color: #D0D0D0;
+                }
+
+                .about-us-text {
+                    padding-top: 15px;
+
+                    .article-header {
+                        font-family: 'Merriweather',
+                            serif;
+                        font-size: 20px;
+                        font-weight: bold;
+                    }
+
+                    p {
+                        font-family: 'Raleway', sans-serif;
+                        font-size: 16px;
+                    }
+                }
+            }
+
+            .featured_works {
+                background-color: #FFFFFF;
+                padding-top: 120px;
+            }
+
+            .our_services {
+                background-color: #F9FBFB;
+
+                .column-1,
+                .column-2,
+                .column-3,
+                .column-4,
+                .column-5,
+                .column-6 {
+                    margin-bottom: 13px;
+                    padding: 0px 8px 0px 8px;
+                }
+
+                .column-1 div,
+                .column-2 div,
+                .column-3 div,
+                .column-4 div,
+                .column-5 div,
+                .column-6 div {
+                    position: relative;
+                }
+
+                .column-1 div div,
+                .column-2 div div,
+                .column-3 div div,
+                .column-4 div div,
+                .column-5 div div,
+                .column-6 div div {
+                    position: absolute;
+                    background-color: #000000;
+                    color: #ffffff;
+                    opacity: 0.6;
+                    width: 100%;
+                }
+
+                .column-1 div {
+                    height: 422px;
+                }
+
+                .column-1 div div {
+                    position: absolute;
+                    background-color: #6df6eb;
+                    color: #000000;
+                    opacity: 1;
+                    padding: 65px 115px 55px 65px;
+                }
+
+                .column-1 div div button {
+                    background: rgba(0, 0, 0, 0);
+                    border: none;
+                }
+
+                .column-1 div div a:active {}
+
+
+                .column-2 div {
+                    height: 422px;
+                }
+
+                .column-2 div div {
+                    padding: 180px 84px 0px 65px;
+                }
+
+
+                .column-3 div {
+                    height: 371px;
+                }
+
+                .column-3 div div {
+                    padding: 165px 170px 0px 65px;
+                }
+
+
+                .column-4 div {
+                    height: 371px;
+                }
+
+                .column-4 div div {
+                    padding: 165px 80px 0px 65px;
+                }
+
+
+                .column-5 div {
+                    height: 370px;
+                }
+
+                .column-5 div div {
+                    padding: 130px 120px 0px 65px;
+                }
+
+
+                .column-6 div {
+                    height: 370px;
+                }
+
+                .column-6 div div {
+                    padding: 130px 180px 0px 65px;
+                }
+
+
+                .content a {
+                    position: absolute;
+                    font-family: 'Raleway', sans-serif;
+                    font-size: 18px;
+                    text-decoration: none;
+                    color: #ffffff;
+                    bottom: 63px;
+                }
+
+                .content a:hover {
+                    text-decoration: underline;
+                }
+
+                .content a img {
+                    margin-left: 15px;
+                }
+            }
+
+            .small_team {
+                background-color: #FFFFFF;
+
+                .blue_window {
+                    margin-top: -320px;
+                    padding: 0px 16px 0px 16px;
+                }
+
+                .blue_window_text {
+                    margin-top: -240px;
+                    text-align: center;
+
+                    p {
+                        padding-top: 20px;
+                        margin-right: 20px;
+                    }
+
+                    div {
+                        width: 100px;
+                        margin-left: 60px;
+                    }
+                }
+
+
+            }
+
+            .reviews {
+
+                .article {
+                    height: 368px;
+                    width: 667px;
+                    text-align: center;
+                    margin-left: 45px;
+                    margin-top: 35px;
+                }
+
+                .carousel {
+                    background-size: 430px 370px;
+                    width: 420px;
+
+                    img {
+                        margin: 0 auto;
+                    }
+                }
+
+                .carousel-indicators {
+                    margin: 0;
+                    padding: 0;
+                    top: 450px;
+                }
+            }
+        }
+
+        .logo {
+            height: 420px;
+            background-size: contain;
+        }
+    }
+}
