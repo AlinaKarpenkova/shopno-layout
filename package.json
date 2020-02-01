@@ -1,0 +1,24 @@
+{
+  "name": "shopno-layout",
+  "version": "0.0.1",
+  "description": "The Shopno adaptive layout.",
+  "main": "index.js",
+  "scripts": {
+    "sass-watch": "sass --watch scss/style.scss css/style.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlinaKarpenkova/shopno-layout.git"
+  },
+  "author": "Alina Karpenkova",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlinaKarpenkova/shopno-layout/issues"
+  },
+  "homepage": "https://github.com/AlinaKarpenkova/shopno-layout#readme",
+  "devDependencies": {
+    "sass": "^1.25.0"
+  },
+  "dependencies": {}
+}
